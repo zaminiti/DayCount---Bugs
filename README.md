@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://apolloapp.io/apollo-head.svg" width=200 />
+  <img src="https://lh4.googleusercontent.com/bOi5FtDyycjoB--Vw7Z-m1UAimVm_mVd29TTpt0svK-onZKtiOEHgmzcf2BzPVK0EBtE4pMmuKuzz5iTp-UUfeXN7tAr4Gv5p7sTbPm3wNqzXf0z=w1280" width=200 />
 </p>
 
 # DayCount Bug Tracker 🐛
@@ -26,12 +26,10 @@ GitHub's an awesome site that's really well-suited for bug tracking. It'll keep 
 
 ### What if I have a feature request, not a bug report?
 
-We have a separate place for feature requests (for organization), check out https://apolloapp.io/feature-requests
+We have a separate place for feature requests (for organization), check out https://www.daycountapp.com/
 
 ### Can I participate in discussions here?
 
 Of course! But please try to stay on topic to the specific bug report, so contribute if you feel you can add extra information. If you just want to say "me too", use the + button with the smiley on a comment to indicate your reaction rather than creating another comment. This is unfortunately also not the place for off-topic conversation or memes. Also please try to be nice here within the discussions. :)
 
-### Am I not allowed to post bugs to the subreddit (r/ApolloApp)?
 
-You totally can if you feel like it'd be wortwhile for discussion or some other reason, but GitHub is the preferred place if you're able to (again, just to keep everything organized).
