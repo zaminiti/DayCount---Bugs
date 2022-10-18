@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lh4.googleusercontent.com/bOi5FtDyycjoB--Vw7Z-m1UAimVm_mVd29TTpt0svK-onZKtiOEHgmzcf2BzPVK0EBtE4pMmuKuzz5iTp-UUfeXN7tAr4Gv5p7sTbPm3wNqzXf0z=w1280" width=200 />
+  <img src="logo.png" width=200 />
 </p>
 
 # DayCount Bug Tracker 🐛
